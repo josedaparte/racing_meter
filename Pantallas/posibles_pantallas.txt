@@ -1,0 +1,17 @@
+pantalla nextion son mas caras pero faciles de usar (tienen app para generar las imagenes que se ven) adaptan a pic arduino etc
+
+pantallas para rb_pi --> solo se usan en raspberry --> ver si se pueden iniciar rapidamente (entre 10 y 20 seg) para esto deberian oder usarse sin instalar raspbian
+
+diymore
+
+uOLED de 4dsystems --> muy cara
+
+
+links:
+
+https://listado.mercadolibre.com.ar/pantalla-nextion#D[A:pantalla%20nextion]
+
+
+https://es.aliexpress.com/wholesale?catId=0&initiative_id=SB_20190507122433&SearchText=nextion+7
+
+https://www.tiendavirtual.com/pantalla+tactil_qOpantalla+tactilXvOresultxSM
